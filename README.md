@@ -21,7 +21,7 @@ These export commands must be run in both of the terminal windows below.
 git clone https://github.com/CloudKarafka/nodejs-kafka-example.git
 cd nodejs-kafka-example
 npm install
-node consumer.js
+node producer.js
 ```
 
 Open another terminal window
